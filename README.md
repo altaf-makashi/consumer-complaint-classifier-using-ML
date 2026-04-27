@@ -1,5 +1,5 @@
 # Consumer Complaint Classification System 🚀
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/altaf1021/complaint-classifier)
+**🔗 Live Demo:** [View App on Hugging Face Spaces](https://huggingface.co/spaces/altaf1021/complaint-classifier)
 ## 📌 Project Overview
 Developed an end-to-end AI system designed to streamline financial grievance handling. This project automatically categorizes ~10,000 unstructured consumer complaints into 16 distinct product sectors (e.g., Mortgages, Credit Reporting, Student Loans) with human-level precision.
 
